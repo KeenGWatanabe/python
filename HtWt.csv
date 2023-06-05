@@ -1,4 +1,4 @@
-,first_name,last_name,address,height,weight
+number,first_name,last_name,address,height,weight
 22,Cole,Palmer,"8366 At, Street",178,91
 102,Cole,Palmer,"8366 At, Street",178,91
 28,Desirae,Shannon,"P.O. Box 643, 5251 Consectetuer, Rd.",195,83
@@ -7,3 +7,8 @@
 101,Ivor,Pierce,102-3364 Non Road,168,88
 37,Mary,Colon,4674 Ut Rd.,179,75
 100,Mary,Colon,4674 Ut Rd.,179,75
+0,Lane,Reese,534-1559 Nam St.,181,64
+1,Ivor,Pierce,102-3364 Non Road,168,64
+2,Roary,Gibson,"P.O. Box 344, 7785 Nisi Ave",191,99
+3,Shannon,Little,691-2550 Consectetuer Street,185,65
+4,Abdul,Fry,4565 Risus St.,169,65
