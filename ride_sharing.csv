@@ -1,6 +1,12 @@
-ride_dt,duration,station_A_id,station_A-name,station_B_id,station_B_name,bike_id,user_type,user_birth_year,user_gender,tire_sizes
-1/1/2020,12 minutes,81,Berry St at 4th St,323,Broadway at Kearny,5480,2,1959,Male,27
-1/4/2020,24 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1965,Male,26
-10/11/2020,8 minutes,67,San Francisco Caltrain Station 2 (Townsend St…,23,The Embarcadero at Steuart St,3652,3,1993,Male,26
-7/11/2020,4 minutes,16,Steuart St at Market St,28,The Embarcadero at Bryant St,1883,1,1979,Male,27
-12/1/2020,11 minutes,22,Howard St at Beale St,350,8th St at Brannan St,4626,2,1994,Male,27
+ride_dt,duration,station_A_id,station_A-name,station_B_id,station_B_name,bike_id,user_type,user_birth_year,user_gender,tire_sizes,ride_id
+1/1/2020,12 minutes,81,Berry St at 4th St,323,Broadway at Kearny,5480,2,1959,Male,27,5480
+1/4/2020,24 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1965,Male,26,5193
+10/11/2020,8 minutes,67,San Francisco Caltrain Station 2 (Townsend St…,23,The Embarcadero at Steuart St,3652,3,1993,Male,26,3652
+7/11/2020,4 minutes,16,Steuart St at Market St,28,The Embarcadero at Bryant St,1883,1,1979,Male,27,1883
+12/1/2020,11 minutes,22,Howard St at Beale St,350,8th St at Brannan St,4626,2,1994,Male,27,4626
+1/4/2020,10 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1979,Male,27,2233
+10/11/2020,9 minutes,67,San Francisco Caltrain Station 2 (Townsend St…,23,The Embarcadero at Steuart St,3652,3,1985,Male,27,5355
+7/11/2020,11 minutes,16,Steuart St at Market St,28,The Embarcadero at Bryant St,1883,1,1997,Male,27,7471
+12/1/2020,9 minutes,22,Howard St at Beale St,350,8th St at Brannan St,4626,2,1986,Male,27,7689
+12/1/2020,11 minutes,22,Howard St at Beale St,350,8th St at Brannan St,4626,2,1994,Male,27,4626
+1/4/2020,10 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1979,Male,27,2233
