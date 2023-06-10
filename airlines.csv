@@ -1,6 +1,6 @@
-cleanliness,safety,satisfaction,id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min
-Clean,Neutral,Very satisfied,1351,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,12/31/2018,115
-Clean,Very safe,Very satisfied,373,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,12/31/2018,135
-Average,Somewhat safe,Neutral,2820,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,12/31/2018,70
-Clean,Very safe,Somewhat satisfied,1157,Tuesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,12/31/2018,190
-Unacceptable,Very safe,Somewhat satisfied,2992,Wednesday,AMERICAN,MIAMI,East US,Hub,Gates 50-59,12/31/2018,559
+cleanliness,safety,satisfaction,id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,full_name
+Clean,Neutral,Very satisfied,1351,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,12/31/2018,115,Mr. Douche
+Clean,Very safe,Very satisfied,373,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,12/31/2018,135,Ms. Tiny
+Average,Somewhat safe,Neutral,2820,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,12/31/2018,70,Dr. Steph
+Clean,Very safe,Somewhat satisfied,1157,Tuesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,12/31/2018,190,Ms. Stone
+Unacceptable,Very safe,Somewhat satisfied,2992,Wednesday,AMERICAN,MIAMI,East US,Hub,Gates 50-59,12/31/2018,559,Mr. Dam
