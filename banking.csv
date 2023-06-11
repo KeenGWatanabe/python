@@ -1,5 +1,5 @@
-acct_amount,acct_curr,inv_amount,account_opened,last_transaction
-1200000,sgd,1200000,4/5/2004,
-900500,eur,900000,1/4/2004,
-680000,usd,600000,,
-2200000,sgd,400000,,
+acct_amount,acct_cur,inv_amount,account_opened,last_transaction
+1200000,sgd,1200000,4/5/2004,5/5/2004
+900500,euro,900000,1/4/2004,2/3/2004
+680000,usd,600000,10/4/2003,11/3/2003
+2200000,sgd,400000,7/4/2003,8/3/2003
