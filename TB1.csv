@@ -1,0 +1,88 @@
+﻿description,JAN,FEB
+ASSETS,0,
+Renovation,0,0
+Motor Vehicle,0,0
+Computers,0,0
+Equipment,0,0
+Funiture & Fittings,0,0
+,,
+Trade Debtors,-3517,2990
+Deposits,0,0
+Prepayments,0,0
+Bank,-25645.44,-8054.18
+Cash,0,0
+Dir's a/c,0,0
+,,
+LIABILITIES,7014,2581
+Trade Creditors,5358.61,925.82
+Accruals,0,0
+Loans-Van GBF4674Z,863,863
+Loans-Van GBB2268Y,792,792
+Interest in Susp,0,0
+Payroll,0,0
+GST INPUT,0,0
+GST OUTPUT,0,0
+GST Control,0,0
+Provn Depreciation,0,0
+,,
+,,
+REVENUE,39127,34234
+Sales,-27140,-22110
+Sales - Maintenance,-11987,-12124
+Cash Sales,0,0
+Other Income,0,0
+,,
+COST OF SALES,35467,19321
+Trade Supplies,15382.16,15043.93
+Freight Costs,3800,0
+Contract installers,16285.07,4277.34
+Misc Costs,0,0
+,,
+MARKETING,22487,14092
+Advertising,270,449.6
+Corporate,0,0
+Entertainment,0,0
+Legal & professional fees,0,0
+Travelling Expenses,0,0
+,,
+SALARIES,0,0
+Director Salaries,1400,1400
+Director CPF,238,238
+Director Fees,6000,0
+Director Transport,0,0
+Director Mobile,0,0
+Staff salaries,9099.92,9400.65
+Staff CPF,918,918
+Staff Commission,397.94,268.85
+Staff Bonus,0,0
+Staff FWL,1400,1400
+Staff SDL,17,17
+Medical Expense,33.29,0
+Staff Training,0,0
+General worker,2713,0
+,,
+GENERAL EXPENSES,3321,3304
+Account & Secretarial fees,602.25,0
+Legal & professional fees,0,0
+Bank charges,0,0
+Bank interests,0,0
+Repair & Maintenance,214,0
+Office expense,0,196
+Computer expense,0,0
+Insurance,0,802.5
+Printing & Stationery,0,0
+Rental,0,0
+Recruitment,0,0
+Telephone & internet,645.05,710.32
+Transport,1860.15,1595.17
+"Transport-ERP, mileage claims",0,0
+Utilities,0,0
+Depreciation,0,0
+Fines & Penalties,0,0
+,25539,16946
+EQUITY,,0
+Capital,0,0
+Reserves,0,0
+,,
+,,
+NETT,22148.83,2483.36
